@@ -11,3 +11,6 @@ def bark
 end
 
 end
+
+max = Dog.new
+max.name = "Max"
